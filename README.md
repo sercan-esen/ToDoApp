@@ -24,6 +24,7 @@
  Yapılacaklar Listesi Uygulaması
  Kullanılan Teknolojiler:
  MVVM(ViewModel,DataBinding,LiveData,Hilt,Extension)
+ Coroutines
  Room(Sqlite)
  
  İşlevler:
